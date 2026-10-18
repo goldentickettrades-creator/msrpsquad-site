@@ -53,3 +53,8 @@ details{border-bottom:1px solid #e3e7fb;padding:16px 0}summary{font-weight:700;c
 .logo{height:38px;width:auto;display:block}.foot .logo{height:30px;margin-bottom:12px}
 .btn.sm{white-space:nowrap}@media (max-width:420px){.logo{height:30px}.nav .btn.sm{padding:8px 12px;font-size:.85rem}}
 .legal h1{font-size:2.2rem}.legal h2{font-size:1.3rem;margin-top:1.6em}.legal li{margin:6px 0}
+
+/* Launch refresh: approved product photography and concise membership comparison. */
+.hero-in{grid-template-columns:1fr 1.2fr;gap:32px}.product-art{margin:0}.product-art img{display:block;border-radius:16px;width:100%;box-shadow:0 24px 60px #0005}.product-art figcaption{color:#b5bddc;font-size:.78rem;margin-top:12px}
+.tiers{grid-template-columns:repeat(2,minmax(0,1fr));margin-top:36px}.tier .fine{color:var(--muted);margin-bottom:0}.coverage-box{padding:26px;border-radius:16px;background:var(--mist)}.coverage-box p{margin:12px 0 0}.coverage-box .note{margin-bottom:0}
+@media(max-width:900px){.hero-in,.tiers{grid-template-columns:1fr}.product-art{max-width:660px}.hero{padding:40px 0}.section{padding:56px 0}}
