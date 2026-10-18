@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://msrpsquad.com/sitemap.xml
